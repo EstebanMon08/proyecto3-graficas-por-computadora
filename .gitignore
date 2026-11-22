@@ -1,0 +1,5 @@
+zig-pkg
+build/
+_deps/
+.cache/
+*.o
